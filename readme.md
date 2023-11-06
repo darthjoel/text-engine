@@ -14,6 +14,8 @@
 
 An HTML-based text adventure game engine. Small and easy to use with no dependencies. Highly customizable.
 
+TO PLAY: Open `index.html` in a browser like Chrome or Safari. Typically double clicking the file will automatically open the browser, or you can select "File -> Open File" from the browser's menu.
+
 Very little programming is required, but several JavaScript hooks are provided if you are inclined to use them!
 
 ### How do I use it?
